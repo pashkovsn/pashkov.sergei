@@ -1,0 +1,20 @@
+name: platacard
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas=1.5.3
+  - seaborn
+  - ipykernel
+  - nbformat
+  - pylint
+  - black
+  - flake8
+  - mypy
+  - pip
+  - jupyterlab
+  - tabulate
+  - plotly
+  - causalimpact
+  - scikit-learn
+  - numpy
